@@ -7,9 +7,6 @@
 #Autoexecute
 exec_always waybar
 #
-#Alternative Layouts
-exec_always bash -c alternate-layout
-#
 #Including catppuccin
 include catppuccin-mocha
 #
